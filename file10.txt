@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hello world
-=======
-hii Akshat
->>>>>>> a34fa9811007288e490584d681bcc459479829bf
